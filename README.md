@@ -1,6 +1,5 @@
 ### Hi there 👋
-<img src="Blog-Article-MERN-Stack.jpg" width="500">
-
+<img src="https://github.com/bipinthecoder/bipinthecoder/blob/master/Blog-Article-MERN-Stack.jpg" width="300">
 
 - 🔭 I’m currently working on React JS
 - 🌱 I’m currently learning MongoDB
