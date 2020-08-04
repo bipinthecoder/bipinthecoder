@@ -19,7 +19,7 @@ My Github Stats:
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=bipinthecoder&show_icons=true&count_private=true&theme=dracula&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bipinthecoder&hide=css,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bipinthecoder&theme=tokyonight">
 </p>
 
 [website]: https://bipinthecoder.github.io
