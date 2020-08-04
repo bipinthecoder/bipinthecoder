@@ -2,7 +2,7 @@
 <br>
 
 <p align = "center">
-  <img src="https://github.com/bipinthecoder/bipinthecoder/blob/master/Blog-Article-MERN-Stack.jpg" width="800" height="500">
+  <img src="https://github.com/bipinthecoder/bipinthecoder/blob/master/Blog-Article-MERN-Stack.jpg" width="800" height="400">
 </p>
 
 - 🧠 learning MongoDB
