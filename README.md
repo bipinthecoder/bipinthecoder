@@ -1,9 +1,11 @@
 ### Hi, I'm Bipin 👋👨🏻‍💻 
 <br>
 
+<!---
 <p align = "center">
   <img src="https://github.com/bipinthecoder/bipinthecoder/blob/master/Blog-Article-MERN-Stack.jpg" width="800" height="400">
 </p>
+--->
 
 - 🧠 learning MongoDB
 - 💜 loving React
