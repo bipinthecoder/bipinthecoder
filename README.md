@@ -1,6 +1,8 @@
 ### Hi, I'm Bipin 👋👨🏻‍💻 
 <br>
 *A Mission-driven Full-Stack Front-End Developer with a passion for thoughtful UI, collaboration, and alacrity to learn.*
+*This text will be italic*
+_This will also be italic_
 <br>
 
 <!---
