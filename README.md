@@ -1,6 +1,6 @@
 ### Hi, I'm Bipin 👋👨🏻‍💻 
 
-##### "A Mission-driven Full-Stack Front-End Developer with a passion for thoughtful UI, collaboration, and alacrity to learn"
+#### "A Mission-driven Full-Stack Front-End Developer with a passion for thoughtful UI, collaboration, and alacrity to learn"
 <br>
 
 <!---
@@ -11,7 +11,7 @@
 
 - 🧠 learning MongoDB
 - 💜 loving React
-- ⚡ Fun fact: I'm a chess Player too...
+- ⚡ Fun fact: I'm a chess♟ Player too...
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
