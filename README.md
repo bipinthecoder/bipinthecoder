@@ -1,6 +1,7 @@
 # Hi, I'm Bipin 👋👨🏻‍💻 
 
-### "A Mission-driven Full-Stack Front-End Developer with a passion for thoughtful UI, collaboration, and alacrity to learn"
+<!-- ### "A Mission-driven Full-Stack Front-End Developer with a passion for thoughtful UI, collaboration, and alacrity to learn" -->
+"A Mission-driven Full-Stack Front-End Developer with a passion for thoughtful UI, collaboration, and alacrity to learn"
 <br>
 
 <!---
