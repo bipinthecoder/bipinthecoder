@@ -1,5 +1,7 @@
 ### Hi, I'm Bipin 👋👨🏻‍💻 
 <br>
+*A Mission-driven Full-Stack Front-End Developer with a passion for thoughtful UI, collaboration, and alacrity to learn.*
+<br>
 
 <!---
 <p align = "center">
