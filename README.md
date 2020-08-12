@@ -23,8 +23,8 @@ My Github Stats:
 <br>
 
 <p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=bipinthecoder&show_icons=true&count_private=true&theme=dracula&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bipinthecoder&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=bipinthecoder&show_icons=true&count_private=true&theme=dracula&line_height=27" height="150px">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bipinthecoder&theme=tokyonight" height="150px">
 </p>
 
 [website]: https://bipinthecoder.github.io
