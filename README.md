@@ -9,8 +9,8 @@
 </p>
 --->
 
-- 🧠 learning MongoDB
-- 💜 loving React
+- 🧠 learning Artificial Intelligence
+- 💜 loving ML
 - ⚡ Fun fact: I'm a chess♟ Player too...
 
 🏡 [website][website] **|** 
