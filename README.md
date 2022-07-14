@@ -1,6 +1,6 @@
 # Hi, I'm Bipin 👋👨🏻‍💻 
 <img src ="https://media.giphy.com/media/5UKCIewuYDUUiWiik6/giphy.gif" align="right" width="230" height="200" /><!-- ### "A Mission-driven Full-Stack Front-End Developer with a passion for thoughtful UI, collaboration, and alacrity to learn" -->
-"A Mission-driven Full-Stack Developer with a passion for thoughtful UI, ML, collaboration, and alacrity to learn"
+"A Mission-driven Full-Stack Developer with a passion for ML, AI collaboration, and alacrity to learn"
 <br>
 
 <!---
