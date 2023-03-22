@@ -13,7 +13,7 @@
 - 💜 loving ML
 - ⚡ Fun fact: I'm a chess♟ Player too...
 
-🏡 [website][website] **|** 
+<!-- 🏡 [website][website] **|** -->
 🐦 [twitter][twitter] **|** 
 👔 [linkedin][linkedin]
 
