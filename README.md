@@ -17,14 +17,15 @@
 🐦 [twitter][twitter] **|** 
 👔 [linkedin][linkedin]
 
-My Github Stats: 
+<!-- My Github Stats: 
 
 <br>
 
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=bipinthecoder&show_icons=true&count_private=true&theme=dracula&line_height=27" height="200px">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bipinthecoder&theme=tokyonight" height="200px">
-</p>
+</p> -->
+
 
 [website]: https://bipinthecoder.github.io
 [twitter]: https://twitter.com/bipinthecoder
