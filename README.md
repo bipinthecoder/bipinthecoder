@@ -9,8 +9,8 @@
 </p>
 --->
 
-- 🧠 learning Artificial Intelligence
-- 💜 loving ML
+- 🧠 Artificial Intelligence
+- 💜 In Love with ML & DL
 - ⚡ Fun fact: I'm a chess♟ Player too...
 
 <!-- 🏡 [website][website] **|** -->
