@@ -13,10 +13,6 @@
 - 💜 In Love with ML & DL
 - ⚡ Fun fact: I'm a chess♟ Player too...
 
-<!-- 🏡 [website][website] **|** -->
-🐦 [twitter][twitter] **|** 
-👔 [linkedin][linkedin]
-
 My Github Stats: 
 
 <br>
