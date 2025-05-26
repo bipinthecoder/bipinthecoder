@@ -1,6 +1,6 @@
 # Hi, I'm Bipin 👋👨🏻‍💻 
 <!--- <img src ="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" align="right" width="280" height="200" />### "A Mission-driven Machine Learning Engineer with a passion for programming, collaboration, and alacrity to learn" ---->
-"A Mission-driven Artificial Intelligence Engineer with a passion for ML, DL, collaboration, and alacrity to learn"
+"I develop Machine Learning and Computer Vision Tools"
 <br>
 
 <!---
@@ -13,14 +13,6 @@
 - 💜 In Love with ML & DL
 - ⚡ Fun fact: I'm a chess♟ Player too...
 
-My Github Stats: 
-
-<br>
-
-<p align = "left">
-<!--   <img src = "https://github-readme-stats.vercel.app/api?username=bipinthecoder&show_icons=true&count_private=true&theme=dracula&line_height=27" height="200px"> -->
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bipinthecoder&theme=tokyonight" height="250px" width = "700px">
-</p> 
 
 
 [website]: https://bipinthecoder.github.io
