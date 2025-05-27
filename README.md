@@ -1,4 +1,4 @@
-# Hi, I'm Bipin 👋👨🏻‍💻 
+# Hey, I'm Bipin 👋👨🏻‍💻 
 <!--- <img src ="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" align="right" width="280" height="200" />### "A Mission-driven Machine Learning Engineer with a passion for programming, collaboration, and alacrity to learn" ---->
 "I develop Machine Learning and Computer Vision Tools"
 <br>
